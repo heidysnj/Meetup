@@ -17,7 +17,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					ID: 1,
 					post_Description: "Event description",
-					post_title: "1st Event for Meetup 2",
+					post_title: "1st Event",
 					meta_keys: {
 						day: "20200731",
 						time: "09:00 AM",
@@ -27,7 +27,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					ID: 2,
 					post_Description: "Event description",
-					post_title: "1st Event for Meetup 1",
+					post_title: "1st Event",
 					meta_keys: {
 						day: "20200930",
 						time: "07:12 AM",
@@ -37,7 +37,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					ID: 3,
 					post_Description: "Event description",
-					post_title: "2nd Event for Meetup 1",
+					post_title: "2nd Event",
 					meta_keys: {
 						day: "20201028",
 						time: "02:00 PM",
@@ -47,7 +47,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					ID: 4,
 					post_Description: "Event description",
-					post_title: "2nd Event for Meetup 2",
+					post_title: "2nd Event",
 					meta_keys: {
 						day: "20210130",
 						time: "08:00 AM",
