@@ -11,7 +11,7 @@ export const Home = () => {
 	return (
 		<div className="container d-flex justify-content-center">
 			<ul className="list-group">
-				{store.events.reverse().map((item, index) => {
+				{store.event.reverse().map((item, index) => {
 					return (
 						<div
 							className="card mt-3 d-flex justify-content-center "
