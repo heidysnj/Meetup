@@ -34,10 +34,10 @@ const Layout = () => {
 						<Route exact path="/single/:theid">
 							<Single />
 						</Route>
-						<Route exact path="/group">
+						<Route exact path="/group/:theid">
 							<Group />
 						</Route>
-						<Route exact path="/event">
+						<Route exact path="/event/:theid">
 							<Event />
 						</Route>
 						<Route>
